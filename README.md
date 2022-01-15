@@ -2,7 +2,7 @@
 
 LinkedIn clone using `react`, `redux` and `firebase`
 
-![Homepage](https://github.com/filipblajiu/linkedin/blob/main/src/img/demo.jpg?raw=true)
+![Homepage](https://github.com/filipblajiu/linkedin/blob/main/src/img/demo.gif?raw=true)
 
 ## Functionality
 
